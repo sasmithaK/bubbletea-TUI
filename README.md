@@ -2,7 +2,7 @@
 
 > "A Go framework based on The Elm Architecture. Bubble Tea is well-suited for simple and complex terminal applications." 
 
-I've lowkey been intimidated by terminal interfaces for a while 😅. I had only used the super basic ones before, and whenever I tried building my own they were mostly hardcoded and kinda messy.
+I've been fascinated by terminal interfaces for a while 😅. I had only used the super basic ones before, and whenever I tried building my own they were mostly hardcoded and kinda messy.
 
 While looking for easier ways to build TUIs, I found a few frameworks made specifically for this. Textual (Python) and Bubble Tea (Go) kept popping up everywhere as top recommendations.
 
@@ -40,4 +40,5 @@ Make sure you have [Go installed](https://go.dev/doc/install) on your system.
 3. **Run the app!**
     ```bash
     go run main.go
+
     ```
